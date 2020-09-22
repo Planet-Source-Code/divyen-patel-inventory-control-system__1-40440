@@ -1,0 +1,8 @@
+Please extract setup.zip file first and run setup.bat that will 
+Register lvbutton.ocx file (one of populer xp-button)
+
+If you do not run this setup.bat, it will give you lot of errors while Opening project because i have used this button in almost every forms
+
+
+Crystal Report Required.
+
